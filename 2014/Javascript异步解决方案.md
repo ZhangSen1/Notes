@@ -1,13 +1,13 @@
-javascriptÒì²½½â¾ö·½°¸
+javascriptå¼‚æ­¥è§£å†³æ–¹æ¡ˆ
 ====
-Í¬²½
+* åŒæ­¥
 ```javascript
 a();
 b();
 c();
 d();
 ```
-Òì²½
+* å¼‚æ­¥
 ```javascript
 a(function(){
     b(function(){
@@ -19,16 +19,17 @@ a(function(){
     });
 });
 ```
- Èç¹ûĞèÒªÂú×ã a,b,cÍê³ÉÖ®ºóÖ´ĞĞd
+ å¦‚æœéœ€è¦æ»¡è¶³ a,b,cå®Œæˆä¹‹åæ‰§è¡Œd
 
- »Øµ÷Ø¬ÃÎ
+ å›è°ƒå™©æ¢¦
 
- ½â¾ö·½°¸
- PromiseÄ£Ê½
-ÏûÏ¢Çı¶¯
-[ÁĞ±í](httpsgithub.comjoyentnodewikimodules#async-flow)
+* è§£å†³æ–¹æ¡ˆ
+ * Promiseæ¨¡å¼
+ * æ¶ˆæ¯é©±åŠ¨
+ * [åˆ—è¡¨](httpsgithub.comjoyentnodewikimodules#async-flow)
 
- PromiseÄ£Ê½
-JQuery Deferred
-promisejs
-ECMA 6 Ô­Éú
+
+* Promiseæ¨¡å¼
+* JQuery Deferred
+* promisejs
+* ECMA 6 åŸç”Ÿ

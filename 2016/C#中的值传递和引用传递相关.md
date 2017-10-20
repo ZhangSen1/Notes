@@ -105,6 +105,6 @@
 当然，VB也是基于CLR,以上所有同样适用。
 																							
 ###### 参考:
-MSDN
-CLR Via C#
-深入理解C#
+* MSDN
+* CLR Via C#
+* 深入理解C#

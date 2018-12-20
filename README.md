@@ -6,3 +6,4 @@
 * [ec](https://github.com/ZhangSen1/Notes/blob/master/2015/ec.md)
 * [C#中的值传递和引用传递相关](https://github.com/ZhangSen1/Notes/blob/master/2016/C%23%E4%B8%AD%E7%9A%84%E5%80%BC%E4%BC%A0%E9%80%92%E5%92%8C%E5%BC%95%E7%94%A8%E4%BC%A0%E9%80%92%E7%9B%B8%E5%85%B3.md)
 * [Javascript函数式概念](https://github.com/ZhangSen1/Notes/blob/master/2016/Javascript%E5%87%BD%E6%95%B0%E5%BC%8F%E6%A6%82%E5%BF%B5.md)
+* [.NET垃圾回收](https://github.com/ZhangSen1/Notes/blob/master/2018/GC.md)
